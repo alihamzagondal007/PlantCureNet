@@ -4,7 +4,7 @@ The datasets used in this study are publicly available and can be downloaded fro
 
 ---
 
-##  TLD-PK Dataset
+##TLD-PK Dataset
 
 **Description:** Tomato Leaf Disease Pakistan (TLD-PK) dataset.
 
@@ -13,7 +13,7 @@ https://data.mendeley.com/datasets/3mbnb82mxd/2
 
 ---
 
-##  SLIF-Brijal Dataset
+##SLIF-Brijal Dataset
 
 **Description:** SLIF-Brijal dataset.
 
