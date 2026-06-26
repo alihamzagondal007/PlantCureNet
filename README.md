@@ -11,7 +11,7 @@ The trained weights of GRI-Net used can be downloaded from the link below.
 
 # 📂 Dataset
 
-# The datasets used in this study are publicly available and can be downloaded from the links below.
+The datasets used in this study are publicly available and can be downloaded from the links below.
 
 ##  TLD-PK Dataset
 
