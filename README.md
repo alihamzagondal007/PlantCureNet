@@ -1,6 +1,6 @@
 #   Trained Model Weights
 
-The trained weights of GRI-Net used can be downloaded from the link below.
+The trained weights of GRI-Net can be downloaded from the link below.
 
 **Download:**  
 **[GRI-Net weights](https://drive.google.com/file/d/1DJ-dFmTE2NMZ83-OVPkugIEVtSLSG545/view?usp=sharing)**
