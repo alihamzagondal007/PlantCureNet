@@ -22,7 +22,7 @@ https://data.mendeley.com/datasets/3mbnb82mxd/2
 
 
 
-##  SLIF-Brijal Dataset
+##  SLIF-Brinjal Dataset
 
 **Description:** SLIF-Brijal dataset.
 
