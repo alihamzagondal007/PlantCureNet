@@ -1,4 +1,4 @@
-#   Pre-trained Model Weights
+#   Trained Model Weights
 
 The trained weights of GRI-Net used can be downloaded from the link below.
 
